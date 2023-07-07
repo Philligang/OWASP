@@ -12,7 +12,7 @@ We downloaded the BURP suite from https://portswigger.net/burp and then applied 
 We completed 2 one star challenges, 2 three star challenges, and 2 five star challenges.
 
 ### Part III - Hardening
-First and foremost the client side has WAYYYYY to access to the functions and data related to users. Swapping some of the data manipulation to a server side, that would add a layer of protection.
+First and foremost the client side has WAYYYYY to much access to the functions and data related to users. Swapping some of the data manipulation to a server side, that would add a layer of protection.
 
 Beyond that, for accessing admin only portions of the site, make them password protected. Not simply a hidden index.
 
